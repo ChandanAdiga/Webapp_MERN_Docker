@@ -1,6 +1,6 @@
 # WEB APP : MEARN stack with dockreization
 
-## https://www.section.io/engineering-education/deploy-docker-container-to-kubernetes-cluster/
+    ToDo: Study and try kubernetes: https://www.section.io/engineering-education/deploy-docker-container-to-kubernetes-cluster/
 
 
 # Using Docker Compose
